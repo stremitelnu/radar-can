@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/CANicon_off.png</file>
+        <file>images/CANicon_on.png</file>
+        <file>images/get_radar_config.png</file>
+        <file>images/set_radar_config.png</file>
+        <file>images/set_radar_filter.png</file>
+        <file>images/position view.png</file>
+        <file>images/position.png</file>
+        <file>images/position1.png</file>
+    </qresource>
+</RCC>
